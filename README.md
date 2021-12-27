@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gurdeep475
 - 👀 I’m interested in Cross Platform Application Development
 - 🌱 I’m currently learning Web Development using MERN Stack
-- 💞️ I’m looking to collaborate on Exciting and Creative Flutter Projects
+- 💞️ I’m looking to collaborate on Exciting and Creative Web Projects
 - 📫 How to reach me Email: gurdeepsingh475475@gmail.com
 
 <!---
